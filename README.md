@@ -1,4 +1,4 @@
-# Campus Course & Records Manager (CCRM)
+# Campus Course & Records Manager (CCRM) by Parth Sandeep Polgawande(24BCE10528)
 
 A comprehensive Java SE console application demonstrating advanced programming concepts including OOP, design patterns, file I/O, streams, and functional programming.
 
